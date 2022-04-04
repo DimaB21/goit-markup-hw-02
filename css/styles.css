@@ -7,7 +7,9 @@
       text-decoration: none;
   }
   
-  
+  .body {
+    font-family: 'Roboto'
+  }
   
   
   /*------------Heder---------*/
@@ -65,16 +67,7 @@
 
 /*--------------Hero------------*/
 
-/*.main-hero {
-    position: absolute;
-    width: 160px;
-    height: 160px;
-    left: 10px;
-    top: 200px;
-    
-    background: #2F303A;
-}
-*/
+
 
 .main-title {
     font-family: 'Roboto', sans-serif;
@@ -104,6 +97,10 @@
     background-color: #2196F3;
     
     /*color: #ffffff;*/
+}
+ 
+.text-btn {
+    color: #ffffff;
 }
 
 .text-btn:hover,
@@ -188,13 +185,14 @@
 /*----------------Main2-----------*/
 
 .buttons {
-    font-family: 'Roboto', sans-serif;
+    font-family:'Roboto',sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
     text-align: center;
     letter-spacing: 0.03em;
+    cursor: pointer;
 
     background: #F5F4FA;
     
@@ -207,38 +205,46 @@
 .buttons:hover,
 .buttons:focus {
     color: #ffffff;
-    background-color: #2196F3;
+    background-color: #2196F3
+}
 
-/*.button:hover,
-.button:focus {
-    color: #ffffff;
-    background-color: #2196F3;
-}*/
-
-
-
-
-    /*position: absolute;
-    width: 145px;
-    height: 38px;
-    left: 731px;
-    top: 202px;
+.menu-list {
+    font-family:'Roboto', sans-serif;
+    font-style: Bold;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 2;
+    text-align: left;
+    letter-spacing: 0.06em;
     
-    background: #F5F4FA;
-    border-radius: 4px;*/
+}
+     
+.menu-item {
+    font-family:'Roboto',
+    sans-serif;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 1.87;
+    text-align: left;
+    color: #757575;
 
 
-/*--------------Nav-list------------*/
+}
 
 
 
 
- /*::marker*/
 
 
-/*
-font-family: 'BIZ UDGothic',
-sans-serif;
-font-family: 'Raleway',
-sans-serif;
-*/
+
+
+
+
+
+
+
+
+
+
+
+
