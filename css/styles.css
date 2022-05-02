@@ -7,18 +7,18 @@
     --dark-background-color: #2f303a;
 }
     
-  .list {
-      list-style: none;
-  }
+.list {
+    list-style: none;
+}
 
-  .link, .logo-link, .buttons {
-      text-decoration: none;
-  }
+.link, .logo-link, .buttons {
+    text-decoration: none;
+}
   
-  .body {
+.body {
     font-family: 'Roboto', sans-serif;
     color: var(--title-text-color);
-  }
+}
   
 /*--Header--*/
 
@@ -79,7 +79,6 @@
 
 /*--Hero--*/
 
-
 .main-title {
     font-family: 'Roboto',
     sans-serif;
@@ -111,7 +110,6 @@
     background-color: #2196f3;
 }
 
- 
 .text-btn {
     color: var(--primary-white-color);
 }
@@ -120,8 +118,6 @@
 .modal-btn:focus {
     background: #188CE8;
 }
-    
-
 
 .list-main {
     font-family: 'Roboto',
@@ -159,10 +155,6 @@
     
     color: var(--title-text-color);
 }
-
-/*.main-service {
-    background-color: #e5e5e5;
-}*/
 
 .main-team {
     background-color: var(--secondary-background-color);
@@ -207,9 +199,6 @@
 .text-gray:focus {
     color: var(--primary-white-color);
 }
-
- 
-
 
 .contact-list {
     font-family: 'Roboto', sans-serif;
@@ -256,8 +245,7 @@
     color: var(--title-text-color);
 
 }
-
-     
+   
 .menu-item {
     font-family:'Roboto', sans-serif;
     font-style: Regular;
@@ -265,16 +253,11 @@
     color: var(--primary-text-color);
 }
 
-/*.section-portfolio {
-    background-color: #e5e5e5;
-}*/
-
 .btn-fone:hover,
 .btn-fone:focus {
     background-color: var(--accent-color);
     color: var(--primary-white-color);
 }
-
 
 .text-gray {
     color: rgba(255, 255, 255, 0.6);
