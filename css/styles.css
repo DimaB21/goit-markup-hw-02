@@ -39,7 +39,8 @@
 }
 
 .menu-link {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -59,7 +60,8 @@
 
 .contact-number,
 .contact-mail {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -79,7 +81,8 @@
 
 
 .main-title {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -94,7 +97,8 @@
 }
 
 .modal-btn {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
@@ -120,7 +124,8 @@
 
 
 .list-main {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -131,7 +136,8 @@
 }
 
 .text-list {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
@@ -143,7 +149,8 @@
 /*--Header portfolio--*/
 
 .task-list {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
@@ -153,16 +160,17 @@
     color: var(--title-text-color);
 }
 
-.main-service {
+/*.main-service {
     background-color: #e5e5e5;
-}
+}*/
 
 .main-team {
     background-color: var(--secondary-background-color);
 }
 
 .team-list {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
@@ -173,7 +181,9 @@
 }
 
 .team-special {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
     text-align: center;
@@ -255,9 +265,9 @@
     color: var(--primary-text-color);
 }
 
-.section-portfolio {
+/*.section-portfolio {
     background-color: #e5e5e5;
-}
+}*/
 
 .btn-fone:hover,
 .btn-fone:focus {
