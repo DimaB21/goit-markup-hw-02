@@ -6,7 +6,12 @@
     --secondary-background-color: #f5f4fa;
     --dark-background-color: #2f303a;
 }
-    
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: var(--title-text-color);
+}
+
 .list {
     list-style: none;
 }
@@ -15,10 +20,7 @@
     text-decoration: none;
 }
   
-.body {
-    font-family: 'Roboto', sans-serif;
-    color: var(--title-text-color);
-}
+
   
 /*--Header--*/
 
@@ -39,8 +41,7 @@
 }
 
 .menu-link {
-    font-family: 'Roboto',
-    sans-serif;
+    
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -60,8 +61,7 @@
 
 .contact-number,
 .contact-mail {
-    font-family: 'Roboto',
-    sans-serif;
+    
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -80,8 +80,7 @@
 /*--Hero--*/
 
 .main-title {
-    font-family: 'Roboto',
-    sans-serif;
+    
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -96,8 +95,7 @@
 }
 
 .modal-btn {
-    font-family: 'Roboto',
-    sans-serif;
+    
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
@@ -120,8 +118,7 @@
 }
 
 .list-main {
-    font-family: 'Roboto',
-    sans-serif;
+    
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -132,8 +129,7 @@
 }
 
 .text-list {
-    font-family: 'Roboto',
-    sans-serif;
+    
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
@@ -145,8 +141,7 @@
 /*--Header portfolio--*/
 
 .task-list {
-    font-family: 'Roboto',
-    sans-serif;
+   
     font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
@@ -161,8 +156,7 @@
 }
 
 .team-list {
-    font-family: 'Roboto',
-    sans-serif;
+    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
@@ -173,8 +167,7 @@
 }
 
 .team-special {
-    font-family: 'Roboto',
-    sans-serif;
+    
     font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
@@ -201,7 +194,7 @@
 }
 
 .contact-list {
-    font-family: 'Roboto', sans-serif;
+    
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -223,7 +216,7 @@
 /*--Main Portfolio--*/
 
 .btn-fone {
-    font-family:'Roboto',sans-serif;
+    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
@@ -235,7 +228,7 @@
 }   
 
 .menu-list {
-    font-family:'Roboto', sans-serif;
+    
     font-weight: 500;
     font-size: 18px;
     line-height: 2;
@@ -247,7 +240,7 @@
 }
    
 .menu-item {
-    font-family:'Roboto', sans-serif;
+    
     font-style: Regular;
     text-align: left;
     color: var(--primary-text-color);
