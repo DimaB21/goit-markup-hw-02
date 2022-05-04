@@ -41,7 +41,6 @@ body {
 }
 
 .menu-link {
-    
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -61,7 +60,6 @@ body {
 
 .contact-number,
 .contact-mail {
-    
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -80,7 +78,6 @@ body {
 /*--Hero--*/
 
 .main-title {
-    
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -95,7 +92,6 @@ body {
 }
 
 .modal-btn {
-    
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
@@ -118,7 +114,6 @@ body {
 }
 
 .list-main {
-    
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -129,7 +124,6 @@ body {
 }
 
 .text-list {
-    
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
@@ -141,7 +135,6 @@ body {
 /*--Header portfolio--*/
 
 .task-list {
-   
     font-weight: 700;
     font-size: 36px;
     line-height: 1.16;
@@ -156,7 +149,6 @@ body {
 }
 
 .team-list {
-    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
@@ -167,7 +159,6 @@ body {
 }
 
 .team-special {
-    
     font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
@@ -194,8 +185,6 @@ body {
 }
 
 .contact-list {
-    
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
@@ -216,7 +205,6 @@ body {
 /*--Main Portfolio--*/
 
 .btn-fone {
-    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
@@ -228,7 +216,6 @@ body {
 }   
 
 .menu-list {
-    
     font-weight: 500;
     font-size: 18px;
     line-height: 2;
@@ -240,7 +227,6 @@ body {
 }
    
 .menu-item {
-    
     font-style: Regular;
     text-align: left;
     color: var(--primary-text-color);
